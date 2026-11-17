@@ -1,7 +1,10 @@
 ## Partcipantes:
    RM: 572899 - Patrick Fernandes Martins Pais
+   
    RM: 570436 - Gabriel Del Pizzo Pintor
+   
    RM: 570540 - Ian Rodrigues Martins
+   
 
 # CitizenTech — Sistema de Alerta Inteligente de Enchentes
 
