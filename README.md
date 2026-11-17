@@ -1,3 +1,8 @@
+## Partcipantes:
+   RM: 572899 - Patrick Fernandes Martins Pais
+   RM: 570436 - Gabriel Del Pizzo Pintor
+   RM: 570540 - Ian Rodrigues Martins
+
 # CitizenTech — Sistema de Alerta Inteligente de Enchentes
 
 **Global Solution 2026.2 — Computer Organization and Architecture**
@@ -66,11 +71,6 @@ Faixas hipotéticas, aplicadas ao **valor calculado pelo código**:
 - **Saída (I/O):** GPIOs controlam os LEDs e PWM produz o sinal para o buzzer.
 - **Representação de dados:** valores numéricos de duração, distância e nível; classificação textual do status.
 
-## Testes
-Ver `TESTES.md` para os testes e observações comunicadas pelo aluno. Os cenários ainda não registrados devem ser preenchidos depois da execução.
-
-## Demonstração
-Veja `ROTEIRO_VIDEO.md` para um roteiro curto da apresentação técnica.
 
 ## Referências
 - https://docs.wokwi.com/parts/wokwi-hc-sr04
